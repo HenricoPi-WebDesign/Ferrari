@@ -42,7 +42,7 @@ body{
 }
 
 .swiper .swiper-pagination-bullet-active{
-	background: #fff;
+	background-color: #fff;
 }
 
 header{
@@ -57,9 +57,9 @@ a{
 	align-items: center;
 	text-decoration: none;
 	cursor: pointer;
-	color: #FCFCFC;
+	color: #fff;
 	font-style: none;
-	border: 1px solid #FCFCFC;
+	border: 1px solid #fff;
 	padding: 10px 30px;
 	border-radius: 30px;
 }
